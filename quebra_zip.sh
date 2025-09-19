@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ZIP inicial
-zipfile="matrioska_prot.zip"
+zipfile="aqui é o primeiro arquivo zip"
 
 # Pasta temporária para extrair
 mkdir -p tmp/processed
